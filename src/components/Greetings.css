@@ -1,0 +1,6 @@
+.idGreetings {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    border: 1px solid black;
+}
